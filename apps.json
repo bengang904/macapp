@@ -1,0 +1,105 @@
+[
+  {
+    "name": "AppCleaner",
+    "logo": "images/AppCleaner.png",
+    "description": "AppCleaner 是一款用于 macOS 的应用程序，它帮助用户彻底删除不再需要的应用程序及其相关文件。与 macOS 默认的应用删除方式不同，AppCleaner 不仅删除应用程序本身，还会找到并清理与之关联的各种系统文件（如缓存、偏好设置、日志文件等），这些通常是用户手动删除时容易遗漏的文件。",
+    "download": "https://freemacsoft.net/downloads/AppCleaner_3.6.8.zip"
+  },
+  {
+    "name": "Arduino IDE",
+    "logo": "images/Arduino IDE.png",
+    "description": "Arduino IDE 是一个开源软件，专门用于开发和编程 Arduino 微控制器板。它是最常见和最流行的 Arduino 开发工具，适合初学者和经验丰富的开发者。Arduino IDE 让用户能够轻松编写代码、上传代码到 Arduino 板，并通过串口监视器与 Arduino 进行交互。",
+    "download": "https://downloads.arduino.cc/arduino-1.8.18-macosx.zip"
+  },
+  {
+    "name": "Blender",
+    "logo": "images/Blender.png",
+    "description": "Blender 是一款非常流行的开源、免费的三维创作软件，广泛用于3D建模、动画、渲染、雕刻、视频编辑、视觉特效、模拟、游戏制作等多种创作工作。它由 Blender 基金会开发，并且所有源代码都开放，任何人都可以自由使用、修改和分发。",
+    "download": "https://download.blender.org/release/Blender3.0/blender-3.0.0-macos-x64.dmg"
+  },
+  {
+    "name": "Caesium Image Compressor",
+    "logo": "images/Caesium Image Compressor.png",
+    "description": "Caesium Image Compressor 是一款开源的图像压缩工具，旨在通过无损或有损压缩算法减小图像文件的大小，同时尽量保持图像的视觉质量。它非常适用于需要在减少存储空间的同时保留图像质量的场景，如网站、应用程序或文件存储。",
+    "download": "https://github.com/Lymphatus/caesium-image-compressor/releases/download/v2.4.0/caesium-image-compressor-2.4.0-macos.dmg"
+  },
+  {
+    "name": "Clipy",
+    "logo": "images/Clipy.png",
+    "description": "Clipy是一个免费的开源剪贴板管理工具，允许你管理历史剪贴板内容。它支持多种快捷键操作，可以显示一个历史列表，允许你快速复制和粘贴先前的剪贴板内容。",
+    "download": "https://github.com/Clipy/Clipy/releases/download/1.2.1/Clipy_1.2.1.dmg"
+  },
+  {
+    "name": "Deluge",
+    "logo": "images/Deluge.png",
+    "description": "Deluge 是一款开源且功能强大的 BitTorrent 客户端，支持多个平台（Windows、Linux、macOS）。它以轻量级、灵活和高度可定制的特点广受欢迎，适合于不同需求的用户，尤其是在下载和管理 torrent 文件时提供了丰富的功能。",
+    "download": "https://ftp.osuosl.org/pub/deluge/mac_osx/deluge-1.3.15.1-macosx-x64.dmg"
+  },
+  {
+    "name": "FreeCAD",
+    "logo": "images/FreeCAD.png",
+    "description": "FreeCAD 是一款强大的 开源 3D CAD（计算机辅助设计）软件，专门用于工程、产品设计和建筑设计等领域。它是完全免费的，并且具有高度的可扩展性，适合各种复杂的建模任务，尤其适合需要精确建模和工程制图的用户。",
+    "download": "https://github.com/FreeCAD/FreeCAD/releases/download/1.0.0/FreeCAD_1.0.0-conda-macOS-x86_64-py311.dmg"
+  },
+  {
+    "name": "FreeOffice",
+    "logo": "images/FreeOffice.png",
+    "description": "FreeOffice 是由 SoftMaker 开发的一款免费的办公软件套件，提供了类似于 Microsoft Office 的功能，但它完全免费且兼容性非常高。FreeOffice 提供了文档处理、电子表格和演示文稿等常见办公工具，适合个人和企业用户，尤其是那些不想支付 Microsoft Office 授权费用的用户。",
+    "download": "https://www.softmaker.net/down/softmaker-freeoffice-2024.pkg"
+  },
+  {
+    "name": "GIMP",
+    "logo": "images/GIMP.png",
+    "description": "GIMP 是一款功能强大的 开源 图像编辑软件，常被视为 Photoshop 的免费替代品。它适用于各种操作系统，包括 Windows、macOS 和 Linux，并且完全免费、开源，用户可以自由下载、使用、修改和分发。",
+    "download": "https://download.gimp.org/gimp/v2.10/osx/gimp-2.10.34-2-x86_64.dmg"
+  },
+  {
+    "name": "HandBrake",
+    "logo": "images/HandBrake.png",
+    "description": "HandBrake 是一款开源且免费的 视频转换 软件，广泛用于将视频文件从一种格式转换为另一种格式。它支持多种视频格式的输入和输出，可以进行视频压缩、裁剪、调整分辨率、添加字幕等操作，常用于将视频文件转换为适合各种设备播放的格式。",
+    "download": "https://handbrake.fr/rotation.php?file=HandBrake-1.9.2.dmg"
+  },
+  {
+    "name": "Inkscape",
+    "logo": "images/Inkscape.png",
+    "description": "Inkscape 是一款功能强大的 开源矢量图形编辑软件，广泛用于创建和编辑矢量图形，如插图、图标、图表、漫画、网页设计、徽标等。它是一个免费的替代方案，提供了丰富的功能集。",
+    "download": "https://inkscape.org/gallery/item/56347/Inkscape-1.4.230579_x86_64.dmg"
+  },
+  {
+    "name": "LocalSend",
+    "logo": "images/LocalSend.png",
+    "description": "LocalSend 是一款开源且免费的文件传输工具，旨在简化本地和局域网内设备之间的文件分享和传输。它的设计目标是提供一个简单、安全且无需依赖云服务的文件传输方式。",
+    "download": "https://github.com/localsend/localsend/releases/download/v1.6.2/LocalSend-1.6.2.dmg"
+  },
+  {
+    "name": "OBS Studio",
+    "logo": "images/OBS Studio.png",
+    "description": "OBS Studio 是一个免费的开源软件，广泛用于视频录制和直播流媒体的制作。它支持Windows、macOS 和 Linux 操作系统，因其强大的功能、易用性和高度的可定制性，已成为许多内容创作者、游戏主播、教育工作者以及专业主播的首选工具。",
+    "download": "https://github.com/obsproject/obs-studio/releases/download/29.0.0-beta2/obs-studio-29.0.0-beta2-macos-x86_64.dmg"
+  },
+  {
+    "name": "Sonic Pi",
+    "logo": "images/Sonic Pi.png",
+    "description": "Sonic Pi 是一款开源、免费的编程音频创作工具，主要用于实时编程生成音乐。它不仅适用于编程爱好者、音乐创作者和教育工作者，还通过简单的代码为用户提供强大的音乐创作功能。Sonic Pi 是以 Ruby 编程语言为基础，结合了创作、编程和音频制作的互动体验。",
+    "download": "https://sonic-pi.net/files/releases/v4.1.0/Sonic-Pi-for-Mac-x64-v4-1-0.dmg"
+  },
+  {
+    "name": "Tor Browser",
+    "logo": "images/Tor Browser.png",
+    "description": "Tor Browser 是一款免费的开源网络浏览器，专为保护用户的隐私和匿名性而设计。它通过 Tor 网络对用户的网络流量进行多层加密，并通过全球的志愿者节点进行路由，从而隐藏用户的真实 IP 地址和网络活动。",
+    "download": "https://www.torproject.org/dist/torbrowser/14.5.1/tor-browser-macos-14.5.1.dmg"
+  },
+  {
+    "name": "Visual Studio Code",
+    "logo": "images/Visual Studio Code.png",
+    "description": "Visual Studio Code 是一款免费、开源的源代码编辑器，广泛用于各种编程语言的开发，特别适合 Web 开发、前端开发、后端开发、数据科学、DevOps 等多种编程任务。它兼具强大的功能和灵活的定制性，受到开发者的广泛欢迎。",
+    "download": "https://update.code.visualstudio.com/1.95.3/darwin-universal/stable"
+  },
+  {
+    "name": "VirtualBox",
+    "logo": "images/VirtualBox.png",
+    "description": "VirtualBox 是一款由 Oracle 提供的开源 虚拟化软件，允许用户在单一的物理计算机上运行多个操作系统（即虚拟机）。通过 VirtualBox，用户可以在一台计算机上同时运行不同的操作系统，例如 Windows、Linux、macOS 或其他系统，非常适合测试新软件、开发环境配置以及学习操作系统管理等场景。",
+    "download": "https://download.virtualbox.org/virtualbox/6.1.50/VirtualBox-6.1.50-161033-OSX.dmg"
+  }
+]
+
