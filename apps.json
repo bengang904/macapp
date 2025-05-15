@@ -100,6 +100,12 @@
     "logo": "images/VirtualBox.png",
     "description": "VirtualBox 是一款由 Oracle 提供的开源 虚拟化软件，允许用户在单一的物理计算机上运行多个操作系统（即虚拟机）。通过 VirtualBox，用户可以在一台计算机上同时运行不同的操作系统，例如 Windows、Linux、macOS 或其他系统，非常适合测试新软件、开发环境配置以及学习操作系统管理等场景。",
     "download": "https://download.virtualbox.org/virtualbox/6.1.50/VirtualBox-6.1.50-161033-OSX.dmg"
+  },
+  {
+    "name": "VLC media player",
+    "logo": "images/VLC media player.jpg",
+    "description": "VLC Media Player 是一款功能强大的开源多媒体播放器，广泛用于播放音频和视频文件。它支持几乎所有常见的音视频格式，同时也能处理流媒体播放、DVD、蓝光、音频 CD 等多种内容。VLC 是免费软件，并且跨平台支持，适用于 Windows、macOS、Linux、Android 和 iOS 等操作系统。",
+    "download": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg"
   }
 ]
 
