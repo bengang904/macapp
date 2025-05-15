@@ -36,9 +36,15 @@
     "download": "https://ftp.osuosl.org/pub/deluge/mac_osx/deluge-1.3.15.1-macosx-x64.dmg"
   },
   {
+    "name": "Firefox",
+    "logo": "images/Firefox.png",
+    "description": "Firefox 是一款由 Mozilla 基金会开发的开源网页浏览器。它以速度、隐私保护以及用户自定义的高度可扩展性而闻名。自发布以来，Firefox 一直在不断改进，成为全球使用较为广泛的浏览器之一，特别是在那些注重隐私保护和开源软件的用户群体中。",
+    "download": "https://download.mozilla.org/?product=firefox-latest-ssl&os=osx&lang=zh-CN"
+  },
+  {
     "name": "FreeCAD",
     "logo": "images/FreeCAD.png",
-    "description": "FreeCAD 是一款强大的 开源 3D CAD（计算机辅助设计）软件，专门用于工程、产品设计和建筑设计等领域。它是完全免费的，并且具有高度的可扩展性，适合各种复杂的建模任务，尤其适合需要精确建模和工程制图的用户。",
+    "description": "FreeCAD 是一款强大的 开源 3D CAD软件，专门用于工程、产品设计和建筑设计等领域。它是完全免费的，并且具有高度的可扩展性，适合各种复杂的建模任务，尤其适合需要精确建模和工程制图的用户。",
     "download": "https://github.com/FreeCAD/FreeCAD/releases/download/1.0.0/FreeCAD_1.0.0-conda-macOS-x86_64-py311.dmg"
   },
   {
