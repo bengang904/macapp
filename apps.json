@@ -72,6 +72,12 @@
     "download": "https://inkscape.org/gallery/item/56347/Inkscape-1.4.230579_x86_64.dmg"
   },
   {
+    "name": "Keka",
+    "logo": "images/Keka.jpeg",
+    "description": "Keka 是一款专为 macOS 开发的轻量级压缩/解压工具，界面简洁，支持多种压缩格式，包括 .7z、.zip、.rar、.tar、.gz、.xz 等。",
+    "download": "https://github.com/aonez/Keka/releases/download/v1.5.1/Keka-1.5.1.dmg"
+  },
+  {
     "name": "LocalSend",
     "logo": "images/LocalSend.png",
     "description": "LocalSend 是一款开源且免费的文件传输工具，旨在简化本地和局域网内设备之间的文件分享和传输。它的设计目标是提供一个简单、安全且无需依赖云服务的文件传输方式。",
