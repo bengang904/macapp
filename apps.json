@@ -12,6 +12,12 @@
     "download": "https://downloads.arduino.cc/arduino-1.8.18-macosx.zip"
   },
   {
+    "name": "BalenaEtcher",
+    "logo": "images/BalenaEtcher.png",
+    "description": "BalenaEtcher 是一款跨平台的开源工具，用来把操作系统镜像文件（比如 .iso、.img）写入到可启动的 USB 闪存盘或 SD 卡。",
+    "download": "https://github.com/balena-io/etcher/releases/download/v2.1.4/balenaEtcher-2.1.4-x64.dmg"
+  },
+  {
     "name": "Blender",
     "logo": "images/Blender.png",
     "description": "Blender 是一款非常流行的开源、免费的三维创作软件，广泛用于3D建模、动画、渲染、雕刻、视频编辑、视觉特效、模拟、游戏制作等多种创作工作。它由 Blender 基金会开发，并且所有源代码都开放，任何人都可以自由使用、修改和分发。",
@@ -126,5 +132,6 @@
     "download": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg"
   }
 ]
+
 
 
