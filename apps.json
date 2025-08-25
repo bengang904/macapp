@@ -66,6 +66,12 @@
     "download": "https://handbrake.fr/rotation.php?file=HandBrake-1.9.2.dmg"
   },
   {
+    "name": "Hiddify",
+    "logo": "images/Hiddify.png",
+    "description": "Hiddify是一款开源、免费、跨平台的翻墙代理工具，主要用于绕过网络封锁，实现自由、安全的互联网访问。它由社区开发并支持多种操作系统和协议。",
+    "download": "https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-MacOS.dmg"
+  },
+  {
     "name": "Inkscape",
     "logo": "images/Inkscape.png",
     "description": "Inkscape 是一款功能强大的 开源矢量图形编辑软件，广泛用于创建和编辑矢量图形，如插图、图标、图表、漫画、网页设计、徽标等。它是一个免费的替代方案，提供了丰富的功能集。",
@@ -120,4 +126,5 @@
     "download": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg"
   }
 ]
+
 
