@@ -102,6 +102,12 @@
     "download": "https://github.com/obsproject/obs-studio/releases/download/29.0.0-beta2/obs-studio-29.0.0-beta2-macos-x86_64.dmg"
   },
   {
+    "name": "PrusaSlicer",
+    "logo": "images/PrusaSlicer.png",
+    "description": "PrusaSlicer 是一款由 Prusa Research 开发的开源免费 3D 打印切片软件，功能强大，支持多种打印机和材料，适合入门与进阶用户使用。",
+    "download": "https://cdn.prusa3d.com/downloads/drivers/prusa3d_mac_2_9_2.dmg"
+  },
+  {
     "name": "Sonic Pi",
     "logo": "images/Sonic Pi.png",
     "description": "Sonic Pi 是一款开源、免费的编程音频创作工具，主要用于实时编程生成音乐。它不仅适用于编程爱好者、音乐创作者和教育工作者，还通过简单的代码为用户提供强大的音乐创作功能。Sonic Pi 是以 Ruby 编程语言为基础，结合了创作、编程和音频制作的互动体验。",
@@ -132,6 +138,7 @@
     "download": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg"
   }
 ]
+
 
 
 
