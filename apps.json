@@ -66,6 +66,12 @@
     "download": "https://download.gimp.org/gimp/v2.10/osx/gimp-2.10.34-2-x86_64.dmg"
   },
   {
+    "name": "GQRX",
+    "logo": "images/GQRX.png",
+    "description": "GQRX 是一款跨平台的开源软件无线电接收器，可配合 RTL-SDR 等硬件使用，支持频谱显示、瀑布图和多种调制方式收听，常用于学习、实验和探索无线电信号。",
+    "download": "https://github.com/gqrx-sdr/gqrx/releases/download/v2.15.9/Gqrx-2.15.9.dmg"
+  },
+  {
     "name": "HandBrake",
     "logo": "images/HandBrake.png",
     "description": "HandBrake 是一款开源且免费的 视频转换 软件，广泛用于将视频文件从一种格式转换为另一种格式。它支持多种视频格式的输入和输出，可以进行视频压缩、裁剪、调整分辨率、添加字幕等操作，常用于将视频文件转换为适合各种设备播放的格式。",
@@ -138,6 +144,7 @@
     "download": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg"
   }
 ]
+
 
 
 
