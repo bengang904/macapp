@@ -72,6 +72,12 @@
     "download": "https://download.gimp.org/gimp/v2.10/osx/gimp-2.10.34-2-x86_64.dmg"
   },
   {
+    "name": "Google Chrome",
+    "logo": "images/Google Chrome.png",
+    "description": "Google Chrome 是由 Google 开发的免费网页浏览器，基于开源 Chromium 项目，首次发布于 2008 年。它以速度快、界面简洁、安全性高和丰富的扩展插件著称，支持 Windows、macOS、Linux、Android 与 iOS 等平台，是全球最广泛使用的浏览器之一。",
+    "download": "https://dl.google.com/dl/chrome/mac/legacy10_15/GGRO/googlechrome.dmg"
+  },
+  {
     "name": "GQRX",
     "logo": "images/GQRX.png",
     "description": "GQRX 是一款跨平台的开源软件无线电接收器，可配合 RTL-SDR 等硬件使用，支持频谱显示、瀑布图和多种调制方式收听，常用于学习、实验和探索无线电信号。",
@@ -150,6 +156,7 @@
     "download": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg"
   }
 ]
+
 
 
 
