@@ -90,6 +90,12 @@
     "download": "https://handbrake.fr/rotation.php?file=HandBrake-1.9.2.dmg"
   },
   {
+    "name": "Hex Fiend",
+    "logo": "images/Hex Fiend.png",
+    "description": "Hex Fiend 是一款开源免费的 macOS 十六进制编辑器，由 ridiculous_fish 团队开发，专注于快速处理大文件，常用于系统镜像修改、固件调试、逆向分析等底层数据编辑场景。",
+    "download": "https://github.com/HexFiend/HexFiend/releases/download/v2.18.1/Hex_Fiend_2.18.1.dmg"
+  },
+  {
     "name": "Hiddify",
     "logo": "images/Hiddify.png",
     "description": "Hiddify是一款开源、免费、跨平台的翻墙代理工具，主要用于绕过网络封锁，实现自由、安全的互联网访问。它由社区开发并支持多种操作系统和协议。",
@@ -156,6 +162,7 @@
     "download": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg"
   }
 ]
+
 
 
 
