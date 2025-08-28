@@ -86,13 +86,13 @@
   {
     "name": "HandBrake",
     "logo": "images/HandBrake.png",
-    "description": "HandBrake 是一款开源且免费的 视频转换 软件，广泛用于将视频文件从一种格式转换为另一种格式。它支持多种视频格式的输入和输出，可以进行视频压缩、裁剪、调整分辨率、添加字幕等操作，常用于将视频文件转换为适合各种设备播放的格式。",
+    "description": "HandBrake 是一款开源且免费的视频转换软件，广泛用于将视频文件从一种格式转换为另一种格式。它支持多种视频格式的输入和输出，可以进行视频压缩、裁剪、调整分辨率、添加字幕等操作，常用于将视频文件转换为适合各种设备播放的格式。",
     "download": "https://handbrake.fr/rotation.php?file=HandBrake-1.9.2.dmg"
   },
   {
     "name": "Hex Fiend",
     "logo": "images/Hex Fiend.png",
-    "description": "Hex Fiend 是一款开源免费的 macOS 十六进制编辑器，由 ridiculous_fish 团队开发，专注于快速处理大文件，常用于系统镜像修改、固件调试、逆向分析等底层数据编辑场景。",
+    "description": "Hex Fiend 是一款开源免费的 macOS 十六进制编辑器，专注于快速处理大文件，常用于系统镜像修改、固件调试、逆向分析等底层数据编辑场景。",
     "download": "https://github.com/HexFiend/HexFiend/releases/download/v2.18.1/Hex_Fiend_2.18.1.dmg"
   },
   {
@@ -162,6 +162,7 @@
     "download": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg"
   }
 ]
+
 
 
 
