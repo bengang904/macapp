@@ -24,6 +24,12 @@
     "download": "https://github.com/balena-io/etcher/releases/download/v2.1.4/balenaEtcher-2.1.4-x64.dmg"
   },
   {
+    "name": "Bitwarden",
+    "logo": "images/Bitwarden.png",
+    "description": "Bitwarden 是一款开源的密码管理器，可以帮助你安全地存储、生成和管理密码、密钥及其他敏感信息。它的特点是安全性高、跨平台、免费且支持自托管。",
+    "download": ""
+  },
+  {
     "name": "Blender",
     "logo": "images/Blender.png",
     "description": "Blender 是一款非常流行的开源、免费的三维创作软件，广泛用于3D建模、动画、渲染、雕刻、视频编辑、视觉特效、模拟、游戏制作等多种创作工作。它由 Blender 基金会开发，并且所有源代码都开放，任何人都可以自由使用、修改和分发。",
@@ -125,11 +131,23 @@
     "description": "OBS Studio 是一个免费的开源软件，广泛用于视频录制和直播流媒体的制作。它支持Windows、macOS 和 Linux 操作系统，因其强大的功能、易用性和高度的可定制性，已成为许多内容创作者、游戏主播、教育工作者以及专业主播的首选工具。",
     "download": "https://github.com/obsproject/obs-studio/releases/download/29.0.0-beta2/obs-studio-29.0.0-beta2-macos-x86_64.dmg"
   },
+   {
+    "name": "OpenBoard",
+    "logo": "images/OpenBoard.png",
+    "description": "OpenBoard 是一款开源免费的交互式电子白板软件，主要用于教育和教学环境。它可以让教师或讲师在电脑上进行演示、书写和互动，类似传统的黑板或投影白板，但功能更丰富。",
+    "download": ""
+  },
   {
     "name": "PrusaSlicer",
     "logo": "images/PrusaSlicer.png",
     "description": "PrusaSlicer 是一款由 Prusa Research 开发的开源免费 3D 打印切片软件，功能强大，支持多种打印机和材料，适合入门与进阶用户使用。",
     "download": "https://cdn.prusa3d.com/downloads/drivers/prusa3d_mac_2_9_2.dmg"
+  },
+   {
+    "name": "Scrcpy",
+    "logo": "images/Scrcpy.png",
+    "description": "Scrcpy 是一款开源工具，用于在电脑上显示和控制 Android 设备的屏幕。它可以让你通过 USB 或无线方式，将 Android 手机或平板的屏幕投射到 Windows、macOS 或 Linux 电脑上，并进行操作。",
+    "download": "https://github.com/Genymobile/scrcpy/releases/download/v3.3.2/scrcpy-macos-x86_64-v3.3.2.tar.gz"
   },
   {
     "name": "Sonic Pi",
@@ -162,6 +180,7 @@
     "download": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg"
   }
 ]
+
 
 
 
