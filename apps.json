@@ -27,7 +27,7 @@
     "name": "Bitwarden",
     "logo": "images/Bitwarden.png",
     "description": "Bitwarden 是一款开源的密码管理器，可以帮助你安全地存储、生成和管理密码、密钥及其他敏感信息。它的特点是安全性高、跨平台、免费且支持自托管。",
-    "download": ""
+    "download": "https://github.com/bitwarden/clients/releases/download/desktop-v2024.12.1/Bitwarden-2024.12.1-universal.dmg"
   },
   {
     "name": "Blender",
@@ -135,7 +135,7 @@
     "name": "OpenBoard",
     "logo": "images/OpenBoard.png",
     "description": "OpenBoard 是一款开源免费的交互式电子白板软件，主要用于教育和教学环境。它可以让教师或讲师在电脑上进行演示、书写和互动，类似传统的黑板或投影白板，但功能更丰富。",
-    "download": ""
+    "download": "https://github.com/OpenBoard-org/OpenBoard/releases/download/v1.6.4/OpenBoard-1.6.4.dmg"
   },
   {
     "name": "PrusaSlicer",
@@ -180,6 +180,7 @@
     "download": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg"
   }
 ]
+
 
 
 
