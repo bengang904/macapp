@@ -149,6 +149,12 @@
     "description": "PrusaSlicer 是一款由 Prusa Research 开发的开源免费 3D 打印切片软件，功能强大，支持多种打印机和材料，适合入门与进阶用户使用。",
     "download": "https://cdn.prusa3d.com/downloads/drivers/prusa3d_mac_2_9_2.dmg"
   },
+  {
+    "name": "Ren'Py",
+    "logo": "images/Ren'Py.png",
+    "description": "Ren'Py 是一个用于制作视觉小说和互动剧情游戏的引擎，简单易学，支持多平台发布。它完全开源且免费，采用 MIT 许可证，可自由商用和修改，非常适合个人或团队制作 Galgame 与剧情游戏。",
+    "download": "https://www.renpy.org/dl/8.5.0/renpy-8.5.0-sdk.dmg"
+  },
    {
     "name": "Scrcpy",
     "logo": "images/Scrcpy.png",
@@ -186,6 +192,7 @@
     "download": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg"
   }
 ]
+
 
 
 
