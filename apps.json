@@ -190,8 +190,15 @@
     "logo": "images/VLC media player.jpg",
     "description": "VLC Media Player 是一款功能强大的开源多媒体播放器，广泛用于播放音频和视频文件。它支持几乎所有常见的音视频格式，同时也能处理流媒体播放、DVD、蓝光、音频 CD 等多种内容。VLC 是免费软件，并且跨平台支持，适用于 Windows、macOS、Linux、Android 和 iOS 等操作系统。",
     "download": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg"
+  },
+  {
+    "name": "Xcode",
+    "logo": "images/Xcode.png",
+    "description": "Xcode 是苹果官方推出的集成开发环境，主要用于开发 iOS、macOS、watchOS 和 tvOS 应用，集成代码编辑、界面设计、调试、编译、测试及模拟器等完整开发工具。",
+    "download": "https://download.developer.apple.com/Developer_Tools/Xcode_12.4/Xcode_12.4.xip"
   }
 ]
+
 
 
 
